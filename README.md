@@ -1,1 +1,5 @@
-# kittrickproject
+
+## License
+
+[MIT](LICENSE.txt) license.
+
